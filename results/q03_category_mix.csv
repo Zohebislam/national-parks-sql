@@ -1,0 +1,15 @@
+category,distinct_species,park_records,pct_of_all_records,non_native_records,pct_non_native,esa_listed_records
+Vascular Plant,19134,54610,52.85,6811,14.1,115
+Insect,10001,13870,13.42,731,19.3,18
+Bird,1280,12539,12.14,537,4.5,67
+Fungi,3880,6097,5.9,0,0.0,1
+Nonvascular Plant,2096,3888,3.76,4,0.3,0
+Mammal,648,3113,3.01,117,4.3,66
+Fish,1558,2983,2.89,231,11.7,51
+Invertebrate,1183,1532,1.48,81,15.6,15
+Reptile,416,1064,1.03,40,4.3,28
+Algae,643,974,0.94,0,0.0,0
+Spider/Scorpion,658,756,0.73,76,24.2,1
+Slug/Snail,609,741,0.72,19,8.7,6
+Crab/Lobster/Shrimp,453,580,0.56,28,23.7,1
+Amphibian,258,574,0.56,24,5.3,9

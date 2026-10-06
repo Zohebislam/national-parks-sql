@@ -1,0 +1,57 @@
+richness_rank,park_name,state,species_richness,plants,birds,mammals,herps,fish,invertebrates,fungi_mosses_algae,species_per_1k_acres,density_rank
+1,Great Smoky Mountains National Park,"TN, NC",6070,1765,213,72,87,74,2704,1155,11.64,22
+2,Redwood National Park,CA,5828,2032,462,124,60,130,1352,1668,51.8,5
+3,Shenandoah National Park,VA,4215,2736,203,55,48,41,329,803,21.18,14
+4,Death Valley National Park,"CA, NV",3974,1858,495,196,148,9,1063,205,0.84,49
+5,Yellowstone National Park,"WY, MT, ID",3789,1354,287,69,10,18,1821,230,1.71,45
+6,Crater Lake National Park,OR,3454,1469,153,76,18,8,1128,602,18.85,19
+7,North Cascades National Park,WA,3064,1216,218,64,20,28,594,924,6.07,32
+8,Rocky Mountain National Park,CO,2973,1081,258,58,5,10,706,855,11.18,24
+9,Hawaii Volcanoes National Park,HI,2749,914,62,14,15,4,1615,125,8.5,27
+10,Grand Canyon National Park,AZ,2580,1736,447,98,74,24,201,0,2.12,42
+11,Glacier National Park,MT,2411,1170,242,63,9,26,219,682,2.38,40
+12,Great Basin National Park,NV,2389,1374,297,77,68,15,527,31,30.95,10
+13,Haleakala National Park,HI,2286,829,39,13,12,4,1097,292,78.57,3
+14,Congaree National Park,SC,2271,883,193,35,72,62,665,361,85.55,2
+15,Mammoth Cave National Park,KY,2067,1395,160,44,60,80,327,1,39.13,7
+16,Big Bend National Park,TX,2051,1395,414,81,70,43,0,48,2.56,38
+17,Yosemite National Park,CA,1934,1537,269,84,34,10,0,0,2.54,39
+18,Channel Islands National Park,CA,1868,817,354,42,13,270,243,129,7.49,30
+19,Grand Teton National Park,WY,1843,1378,180,60,11,20,165,29,5.95,33
+20,Joshua Tree National Park,CA,1836,926,247,58,51,0,505,49,2.32,41
+21,Everglades National Park,FL,1829,1041,358,35,75,320,0,0,1.21,47
+22,Cuyahoga Valley National Park,OH,1820,1161,241,41,37,72,268,0,55.24,4
+23,Sequoia and Kings Canyon National Parks,CA,1819,1492,212,71,33,11,0,0,2.1,43
+24,Saguaro National Park,AZ,1729,1346,225,89,66,0,1,2,18.91,18
+25,Guadalupe Mountains National Park,TX,1683,1067,240,69,52,3,181,71,19.48,17
+26,Mount Rainier National Park,WA,1629,953,149,57,19,16,47,388,6.91,31
+27,Lassen Volcanic National Park,CA,1542,916,168,78,20,13,134,213,14.5,20
+28,Wrangell - St Elias National Park and Preserve,AK,1511,1115,194,45,2,88,60,7,0.18,55
+29,Lake Clark National Park and Preserve,AK,1499,743,170,38,1,43,10,494,0.57,50
+30,Carlsbad Caverns National Park,NM,1480,994,362,68,51,5,0,0,31.65,9
+31,Biscayne National Park,FL,1443,442,231,27,40,658,45,0,8.34,28
+32,Olympic National Park,WA,1407,897,248,71,17,86,88,0,1.52,46
+33,Glacier Bay National Park and Preserve,AK,1405,578,249,44,1,128,283,122,0.44,52
+34,Pinnacles National Park,CA,1338,690,159,49,28,2,383,27,50.29,6
+35,Zion National Park,UT,1317,995,209,68,36,9,0,0,8.98,26
+36,Denali National Park and Preserve,AK,1264,814,154,39,1,14,54,188,0.37,53
+37,Gates Of The Arctic National Park and Preserve,AK,1203,568,121,38,1,1,0,474,0.16,56
+38,Voyageurs National Park,MN,1187,790,235,41,14,54,39,14,5.44,34
+39,Acadia National Park,ME,1172,870,214,37,18,33,0,0,24.73,11
+40,Isle Royale National Park,MI,1171,808,244,18,11,54,35,1,2.05,44
+41,Badlands National Park,SD,1169,497,206,38,12,15,228,173,4.82,35
+42,Capitol Reef National Park,UT,1163,841,233,58,21,10,0,0,4.81,36
+43,Mesa Verde National Park,CO,1116,820,210,67,19,0,0,0,21.41,13
+44,Wind Cave National Park,SD,1084,594,222,74,18,7,126,43,38.31,8
+45,Katmai National Park and Preserve,AK,946,539,179,40,1,34,46,107,0.26,54
+46,Theodore Roosevelt National Park,ND,939,579,164,39,15,29,51,62,13.33,21
+47,Kobuk Valley National Park,AK,894,402,109,29,1,16,0,337,0.51,51
+48,Canyonlands National Park,UT,866,557,202,49,25,33,0,0,2.57,37
+49,Great Sand Dunes National Park and Preserve,CO,858,591,197,53,11,4,1,1,19.96,16
+50,Hot Springs National Park,AR,800,496,106,38,39,31,48,42,144.14,1
+51,Bryce Canyon National Park,UT,790,558,164,56,11,1,0,0,22.05,12
+52,Arches National Park,UT,750,499,178,44,19,10,0,0,9.8,25
+53,Dry Tortugas National Park,FL,749,155,280,6,5,261,42,0,11.58,23
+54,Petrified Forest National Park,AZ,736,451,226,34,23,0,0,2,7.87,29
+55,Black Canyon of the Gunnison National Park,CO,689,475,142,50,10,12,0,0,20.91,15
+56,Kenai Fjords National Park,AK,672,411,145,32,0,34,48,2,1.0,48

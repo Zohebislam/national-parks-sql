@@ -1,0 +1,57 @@
+growth_rank,park_name,state,visitors_10y_ago,visitors_latest,cagr_10y_pct,surge_year,surge_pct
+1,Kobuk Valley National Park,AK,3005,15500,17.83,2011,263.0
+2,Lake Clark National Park and Preserve,AK,5320,21102,14.77,2012,125.6
+3,Bryce Canyon National Park,UT,890676,2365110,10.26,2016,35.5
+4,Capitol Reef National Park,UT,511511,1064904,7.61,2015,19.6
+5,Joshua Tree National Park,CA,1256421,2505286,7.15,2015,27.4
+6,Canyonlands National Park,UT,392537,776218,7.06,2016,22.3
+7,Crater Lake National Park,OR,388972,756344,6.88,2016,23.0
+8,Arches National Park,UT,833049,1585718,6.65,2014,18.6
+9,Great Basin National Park,NV,78524,144846,6.31,2016,24.7
+10,Death Valley National Park,"CA, NV",744440,1296283,5.7,2008,23.8
+11,Theodore Roosevelt National Park,ND,435359,753880,5.64,2016,30.0
+12,Zion National Park,UT,2567350,4295127,5.28,2016,17.7
+13,Rocky Mountain National Park,CO,2743676,4517585,5.11,2015,21.0
+14,Acadia National Park,ME,2083588,3303393,4.72,2016,17.5
+15,Wrangell - St Elias National Park and Preserve,AK,50336,79047,4.62,2012,33.6
+16,Yosemite National Park,CA,3242644,5028868,4.49,2016,21.2
+17,Great Sand Dunes National Park and Preserve,CO,258660,388308,4.15,2016,29.6
+18,Glacier National Park,MT,1964399,2946681,4.14,2016,24.5
+19,North Cascades National Park,WA,19167,28646,4.1,2009,44.0
+20,Black Canyon of the Gunnison National Park,CO,160450,238018,4.02,2007,36.9
+20,Yellowstone National Park,"WY, MT, ID",2870295,4257177,4.02,2015,16.6
+22,Isle Royale National Park,MI,17070,24966,3.88,2016,33.6
+23,Denali National Park and Preserve,AK,415935,587412,3.51,2013,36.7
+24,Redwood National Park,CA,383780,536297,3.4,2015,22.8
+25,Grand Canyon National Park,AZ,4279439,5969811,3.38,2015,16.1
+26,Lassen Volcanic National Park,CA,388741,536068,3.27,2012,16.1
+27,Kenai Fjords National Park,AK,251630,346534,3.25,2010,36.3
+28,Grand Teton National Park,WY,2406476,3270076,3.11,2015,12.8
+29,Pinnacles National Park,CA,158824,215555,3.1,2011,59.5
+30,Shenandoah National Park,VA,1076150,1437341,2.94,2010,11.8
+31,Saguaro National Park,AZ,619983,820426,2.84,2015,11.9
+32,Big Bend National Park,TX,298717,388290,2.66,2007,22.1
+33,Glacier Bay National Park and Preserve,AK,413382,520171,2.32,2013,10.2
+34,Sequoia and Kings Canyon National Parks,CA,1507273,1862167,2.14,2016,18.9
+35,Olympic National Park,WA,2749197,3390221,2.12,2013,9.2
+36,Mount Rainier National Park,WA,1113601,1356913,2.0,2008,11.0
+37,Great Smoky Mountains National Park,"TN, NC",9289215,11312786,1.99,2014,8.0
+38,Hot Springs National Park,AR,1273456,1544300,1.95,2016,8.9
+39,Badlands National Park,SD,840118,996263,1.72,2015,14.0
+40,Hawaii Volcanoes National Park,HI,1612246,1887580,1.59,2012,9.7
+41,Dry Tortugas National Park,FL,64122,73661,1.4,2011,39.5
+42,Carlsbad Caverns National Park,NM,407367,466773,1.37,2015,12.2
+43,Petrified Forest National Park,AZ,581681,643274,1.01,2014,29.8
+44,Congaree National Park,SC,134045,143843,0.71,2016,64.4
+45,Mesa Verde National Park,CO,557248,583527,0.46,2015,9.1
+46,Wind Cave National Park,SD,591049,617377,0.44,2015,11.9
+47,Guadalupe Mountains National Park,TX,174157,181839,0.43,2009,21.5
+48,Voyageurs National Park,MN,231875,241912,0.42,2012,21.3
+49,Gates Of The Arctic National Park and Preserve,AK,9982,10047,0.06,2014,15.0
+50,Cuyahoga Valley National Park,OH,2468816,2423390,-0.19,2008,13.7
+50,Mammoth Cave National Park,KY,597934,586514,-0.19,2009,12.9
+52,Everglades National Park,FL,954022,930907,-0.24,2012,22.2
+53,Channel Islands National Park,CA,375256,364807,-0.28,2014,61.4
+54,Haleakala National Park,HI,1426068,1263558,-1.2,2014,45.4
+55,Biscayne National Park,FL,608836,514709,-1.67,2008,32.6
+56,Katmai National Park and Preserve,AK,68630,37818,-5.79,2009,440.0

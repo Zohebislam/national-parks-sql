@@ -1,0 +1,11 @@
+gem_rank,park_name,state,species_richness,visitors_latest,species_per_million_visitors,richness_percentile,visitors_percentile
+1,North Cascades National Park,WA,3064,28646,106960.8,89.0,7.0
+2,Wrangell - St Elias National Park and Preserve,AK,1511,79047,19115.2,51.0,13.0
+3,Great Basin National Park,NV,2389,144846,16493.4,80.0,16.0
+4,Congaree National Park,SC,2271,143843,15788.0,76.0,15.0
+5,Redwood National Park,CA,5828,536297,10867.1,98.0,40.0
+6,Guadalupe Mountains National Park,TX,1683,181839,9255.4,56.0,18.0
+7,Big Bend National Park,TX,2051,388290,5282.1,73.0,29.0
+8,Channel Islands National Park,CA,1868,364807,5120.5,69.0,27.0
+9,Mammoth Cave National Park,KY,2067,586514,3524.2,75.0,44.0
+10,Lassen Volcanic National Park,CA,1542,536068,2876.5,53.0,38.0

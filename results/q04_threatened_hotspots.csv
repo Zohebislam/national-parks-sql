@@ -1,0 +1,57 @@
+risk_rank,park_name,state,esa_listed,endangered,threatened,at_risk_total,at_risk_per_1k_species,most_at_risk_category
+1,Death Valley National Park,"CA, NV",37,22,15,222,55.9,Bird
+2,Redwood National Park,CA,22,13,9,137,23.5,Bird
+3,Channel Islands National Park,CA,30,23,7,135,72.3,Bird
+4,Big Bend National Park,TX,11,7,4,130,63.4,Bird
+5,Grand Canyon National Park,AZ,10,7,3,118,45.7,Bird
+6,Great Smoky Mountains National Park,"TN, NC",12,7,5,105,17.3,Bird
+7,Hawaii Volcanoes National Park,HI,37,33,4,101,36.7,Vascular Plant
+8,Everglades National Park,FL,16,10,6,95,51.9,Bird
+9,Carlsbad Caverns National Park,NM,3,1,2,94,63.5,Bird
+10,Joshua Tree National Park,CA,5,2,3,87,47.4,Bird
+10,Yosemite National Park,CA,5,2,3,87,45.0,Bird
+11,Saguaro National Park,AZ,1,0,1,84,48.6,Bird
+12,Sequoia and Kings Canyon National Parks,CA,3,2,1,83,45.6,Bird
+13,Guadalupe Mountains National Park,TX,2,1,1,81,48.1,Bird
+13,Yellowstone National Park,"WY, MT, ID",3,1,2,81,21.4,Bird
+14,Great Basin National Park,NV,5,0,5,77,32.2,Bird
+14,Shenandoah National Park,VA,10,4,6,77,18.3,Bird
+15,Capitol Reef National Park,UT,7,2,5,76,65.3,Bird
+15,Zion National Park,UT,6,3,3,76,57.7,Bird
+16,North Cascades National Park,WA,7,2,5,72,23.5,Bird
+17,Glacier National Park,MT,2,0,2,70,29.0,Bird
+18,Mesa Verde National Park,CO,2,1,1,69,61.8,Bird
+19,Canyonlands National Park,UT,6,5,1,67,77.4,Bird
+20,Grand Teton National Park,WY,2,2,0,66,35.8,Bird
+20,Haleakala National Park,HI,30,27,3,66,28.9,Vascular Plant
+21,Olympic National Park,WA,7,0,7,64,45.5,Bird
+21,Rocky Mountain National Park,CO,1,0,1,64,21.5,Bird
+22,Petrified Forest National Park,AZ,1,1,0,61,82.9,Bird
+22,Pinnacles National Park,CA,2,2,0,61,45.6,Bird
+23,Biscayne National Park,FL,19,11,8,59,40.9,Bird
+24,Badlands National Park,SD,2,1,1,58,49.6,Bird
+24,Crater Lake National Park,OR,5,3,2,58,16.8,Bird
+24,Wind Cave National Park,SD,2,1,1,58,53.5,Bird
+25,Dry Tortugas National Park,FL,10,4,6,57,76.1,Bird
+25,Isle Royale National Park,MI,4,2,2,57,48.7,Bird
+25,Mammoth Cave National Park,KY,12,11,1,57,27.6,Bird
+26,Bryce Canyon National Park,UT,2,1,1,56,70.9,Bird
+27,Voyageurs National Park,MN,3,1,2,54,45.5,Bird
+28,Cuyahoga Valley National Park,OH,2,1,1,53,29.1,Bird
+28,Lassen Volcanic National Park,CA,3,2,1,53,34.4,Bird
+29,Mount Rainier National Park,WA,6,0,6,52,31.9,Bird
+30,Arches National Park,UT,2,1,1,51,68.0,Bird
+31,Black Canyon of the Gunnison National Park,CO,1,0,1,50,72.6,Bird
+32,Acadia National Park,ME,1,1,0,49,41.8,Bird
+33,Great Sand Dunes National Park and Preserve,CO,0,0,0,47,54.8,Bird
+34,Glacier Bay National Park and Preserve,AK,3,2,1,42,29.9,Bird
+35,Congaree National Park,SC,1,0,1,41,18.1,Bird
+36,Wrangell - St Elias National Park and Preserve,AK,2,0,2,40,26.5,Bird
+37,Theodore Roosevelt National Park,ND,0,0,0,36,38.3,Bird
+38,Katmai National Park and Preserve,AK,4,2,2,32,33.8,Bird
+38,Lake Clark National Park and Preserve,AK,2,1,1,32,21.3,Bird
+39,Kenai Fjords National Park,AK,5,4,1,30,44.6,Bird
+40,Denali National Park and Preserve,AK,1,0,1,29,22.9,Bird
+41,Hot Springs National Park,AR,1,0,1,24,30.0,Bird
+42,Gates Of The Arctic National Park and Preserve,AK,0,0,0,18,15.0,Bird
+43,Kobuk Valley National Park,AK,0,0,0,16,17.9,Bird

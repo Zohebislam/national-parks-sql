@@ -1,0 +1,4 @@
+test,n_parks,pearson_r
+All parks,56,0.401
+Excluding Hawaii (island outliers),54,0.421
+Controlling for park size (partial r),56,0.215

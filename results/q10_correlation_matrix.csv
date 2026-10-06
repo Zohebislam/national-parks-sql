@@ -1,0 +1,7 @@
+x_metric,y_metric,n_parks,pearson_r,strength
+log crowding,non-native share,56,0.401,moderate
+log park size,non-native share,56,-0.352,moderate
+10y growth,non-native share,56,-0.307,moderate
+log crowding,at-risk per 1k,56,0.254,weak
+log park size,log richness,56,0.221,weak
+log crowding,log richness,56,0.051,weak

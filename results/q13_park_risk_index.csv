@@ -1,0 +1,57 @@
+risk_rank,park_name,state,pressure_index,z_crowding,z_growth,z_invasion,z_fragility,main_driver
+1,Bryce Canyon National Park,UT,1.1,1.32,1.88,-0.36,1.59,visitor growth
+2,Dry Tortugas National Park,FL,0.82,-0.29,-0.54,2.23,1.88,invasive species
+3,Arches National Park,UT,0.81,0.86,0.9,0.07,1.43,at-risk species
+4,Acadia National Park,ME,0.81,1.34,0.37,1.56,-0.03,invasive species
+5,Hawaii Volcanoes National Park,HI,0.78,0.36,-0.48,3.57,-0.31,invasive species
+6,Canyonlands National Park,UT,0.7,-0.01,1.01,-0.14,1.95,at-risk species
+7,Haleakala National Park,HI,0.7,1.15,-1.24,3.63,-0.75,invasive species
+8,Capitol Reef National Park,UT,0.69,0.25,1.16,0.1,1.28,at-risk species
+9,Zion National Park,UT,0.62,0.99,0.52,0.11,0.85,crowding
+10,Black Canyon of the Gunnison National Park,CO,0.59,0.44,0.18,0.04,1.68,at-risk species
+11,Petrified Forest National Park,AZ,0.41,0.42,-0.64,-0.39,2.25,at-risk species
+12,Pinnacles National Park,CA,0.24,0.49,-0.07,0.37,0.18,crowding
+13,Mesa Verde National Park,CO,0.24,0.61,-0.79,0.03,1.08,at-risk species
+14,Theodore Roosevelt National Park,ND,0.23,0.6,0.62,-0.06,-0.22,visitor growth
+15,Hot Springs National Park,AR,0.21,1.89,-0.39,0.03,-0.69,crowding
+16,Yosemite National Park,CA,0.2,0.41,0.31,-0.05,0.15,crowding
+17,Wind Cave National Park,SD,0.18,0.88,-0.8,0.02,0.62,crowding
+18,Channel Islands National Park,CA,0.16,-0.19,-0.99,0.18,1.66,at-risk species
+19,Joshua Tree National Park,CA,0.15,0.12,1.03,-0.84,0.28,visitor growth
+20,Great Sand Dunes National Park and Preserve,CO,0.14,0.53,0.21,-0.88,0.69,at-risk species
+21,Carlsbad Caverns National Park,NM,0.13,0.57,-0.54,-0.68,1.18,at-risk species
+22,Redwood National Park,CA,0.12,0.28,0.01,1.23,-1.05,invasive species
+23,Everglades National Park,FL,0.11,-0.53,-0.98,1.42,0.53,invasive species
+24,Saguaro National Park,AZ,0.07,0.53,-0.14,-0.46,0.35,crowding
+25,Grand Canyon National Park,AZ,0.06,0.29,0.0,-0.23,0.19,crowding
+26,Badlands National Park,SD,0.06,0.22,-0.45,0.07,0.4,at-risk species
+27,Cuyahoga Valley National Park,OH,0.05,1.36,-0.97,0.53,-0.74,crowding
+28,Shenandoah National Park,VA,0.04,0.44,-0.12,1.18,-1.34,invasive species
+29,Sequoia and Kings Canyon National Parks,CA,0.01,-0.04,-0.33,0.22,0.18,invasive species
+30,Grand Teton National Park,WY,-0.01,0.59,-0.07,-0.2,-0.36,crowding
+31,Death Valley National Park,"CA, NV",-0.02,-0.85,0.64,-0.6,0.75,at-risk species
+32,Biscayne National Park,FL,-0.03,0.09,-1.37,1.25,-0.08,invasive species
+33,Olympic National Park,WA,-0.07,0.17,-0.34,-0.28,0.17,at-risk species
+34,Great Basin National Park,NV,-0.07,-0.09,0.8,-0.42,-0.56,visitor growth
+35,Big Bend National Park,TX,-0.07,-0.63,-0.19,-0.63,1.17,at-risk species
+36,Mount Rainier National Park,WA,-0.08,0.35,-0.37,0.29,-0.58,crowding
+37,Rocky Mountain National Park,CO,-0.11,0.78,0.48,-0.54,-1.16,crowding
+38,Great Smoky Mountains National Park,"TN, NC",-0.13,0.88,-0.37,0.39,-1.39,crowding
+39,Lassen Volcanic National Park,CA,-0.22,0.3,-0.03,-0.71,-0.44,crowding
+40,Voyageurs National Park,MN,-0.22,-0.3,-0.8,0.04,0.17,at-risk species
+41,Kobuk Valley National Park,AK,-0.22,-2.2,3.94,-1.27,-1.36,visitor growth
+42,Isle Royale National Park,MI,-0.23,-1.58,0.14,0.16,0.35,at-risk species
+43,Crater Lake National Park,OR,-0.24,0.22,0.96,-0.71,-1.42,visitor growth
+44,Glacier National Park,MT,-0.24,0.08,0.21,-0.52,-0.74,visitor growth
+45,Mammoth Cave National Park,KY,-0.29,0.61,-0.97,0.03,-0.82,crowding
+46,Yellowstone National Park,"WY, MT, ID",-0.33,-0.08,0.18,-0.25,-1.17,visitor growth
+47,Lake Clark National Park and Preserve,AK,-0.33,-2.25,3.11,-1.03,-1.17,visitor growth
+48,Guadalupe Mountains National Park,TX,-0.36,-0.05,-0.8,-0.89,0.32,at-risk species
+49,Kenai Fjords National Park,AK,-0.37,-0.6,-0.03,-0.96,0.13,at-risk species
+50,Congaree National Park,SC,-0.55,0.33,-0.72,-0.44,-1.35,crowding
+51,North Cascades National Park,WA,-0.56,-1.47,0.2,0.08,-1.05,visitor growth
+52,Glacier Bay National Park and Preserve,AK,-0.73,-1.06,-0.28,-0.89,-0.69,visitor growth
+53,Denali National Park and Preserve,AK,-0.77,-1.03,0.04,-1.01,-1.08,visitor growth
+54,Wrangell - St Elias National Park and Preserve,AK,-0.94,-2.2,0.34,-1.0,-0.88,visitor growth
+55,Katmai National Park and Preserve,AK,-1.56,-2.16,-2.5,-1.1,-0.47,at-risk species
+56,Gates Of The Arctic National Park and Preserve,AK,-1.69,-3.07,-0.9,-1.27,-1.52,visitor growth

@@ -1,0 +1,57 @@
+uniqueness_rank,park_name,state,species_found_only_here,pct_of_park_species,of_which_at_risk
+1,Redwood National Park,CA,2937,50.4,36
+2,Great Smoky Mountains National Park,"TN, NC",2900,47.8,50
+3,Death Valley National Park,"CA, NV",2024,50.9,115
+4,Hawaii Volcanoes National Park,HI,1626,59.1,76
+5,Yellowstone National Park,"WY, MT, ID",1392,36.7,4
+6,Crater Lake National Park,OR,1367,39.6,8
+7,Shenandoah National Park,VA,1187,28.2,21
+8,Haleakala National Park,HI,1174,51.4,46
+9,Congaree National Park,SC,801,35.3,3
+10,Channel Islands National Park,CA,758,40.6,51
+11,Joshua Tree National Park,CA,749,40.8,12
+12,Rocky Mountain National Park,CO,746,25.1,5
+13,North Cascades National Park,WA,745,24.3,4
+14,Great Basin National Park,NV,619,25.9,16
+15,Big Bend National Park,TX,541,26.4,28
+16,Everglades National Park,FL,519,28.4,25
+17,Grand Canyon National Park,AZ,446,17.3,14
+18,Saguaro National Park,AZ,394,22.8,8
+19,Mammoth Cave National Park,KY,373,18.0,20
+20,Biscayne National Park,FL,339,23.5,2
+21,Glacier Bay National Park and Preserve,AK,331,23.6,0
+22,Glacier National Park,MT,255,10.6,4
+23,Pinnacles National Park,CA,244,18.2,6
+24,Badlands National Park,SD,236,20.2,2
+25,Wrangell - St Elias National Park and Preserve,AK,233,15.4,2
+26,Lassen Volcanic National Park,CA,231,15.0,2
+27,Guadalupe Mountains National Park,TX,215,12.8,4
+28,Mount Rainier National Park,WA,192,11.8,2
+29,Cuyahoga Valley National Park,OH,187,10.3,2
+30,Gates Of The Arctic National Park and Preserve,AK,183,15.2,0
+31,Grand Teton National Park,WY,178,9.7,4
+32,Yosemite National Park,CA,169,8.7,8
+33,Hot Springs National Park,AR,167,20.9,3
+34,Olympic National Park,WA,159,11.3,2
+35,Sequoia and Kings Canyon National Parks,CA,152,8.4,7
+36,Acadia National Park,ME,144,12.3,3
+37,Denali National Park and Preserve,AK,132,10.4,0
+38,Zion National Park,UT,127,9.6,12
+39,Black Canyon of the Gunnison National Park,CO,115,16.7,4
+40,Lake Clark National Park and Preserve,AK,112,7.5,1
+41,Carlsbad Caverns National Park,NM,81,5.5,1
+42,Katmai National Park and Preserve,AK,78,8.2,1
+43,Capitol Reef National Park,UT,69,5.9,7
+44,Voyageurs National Park,MN,68,5.7,0
+45,Theodore Roosevelt National Park,ND,67,7.1,0
+45,Wind Cave National Park,SD,67,6.2,1
+47,Dry Tortugas National Park,FL,66,8.8,1
+48,Isle Royale National Park,MI,62,5.3,4
+49,Kobuk Valley National Park,AK,60,6.7,1
+50,Mesa Verde National Park,CO,51,4.6,4
+51,Bryce Canyon National Park,UT,45,5.7,5
+52,Petrified Forest National Park,AZ,36,4.9,4
+53,Canyonlands National Park,UT,32,3.7,4
+53,Great Sand Dunes National Park and Preserve,CO,32,3.7,2
+55,Kenai Fjords National Park,AK,29,4.3,0
+56,Arches National Park,UT,18,2.4,0

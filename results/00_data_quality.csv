@@ -1,0 +1,11 @@
+check_name,observed,expectation,status
+parks loaded,56,> 0,PASS
+species records loaded,119093,> 0,PASS
+visitation rows loaded,4357,> 0,PASS
+species rows whose park name did not match parks,0,= 0,PASS
+parks with no visitation data,0,= 0,PASS
+parks with no species data,0,= 0,PASS
+"duplicate (park, species) source rows removed",155,informational,INFO
+non-blank conservation statuses not in lookup (set to NULL),0,= 0,PASS
+visitation years outside 1904-2100,0,= 0,PASS
+"non-native share outside [0,1]",0,= 0,PASS
