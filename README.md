@@ -206,4 +206,4 @@ national-parks-sql/
 
 ---
 
-*Author: Luis Reynoso*
+*Author: Zoheb Islam*
